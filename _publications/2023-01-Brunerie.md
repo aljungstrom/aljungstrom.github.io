@@ -1,5 +1,5 @@
 ---
-title: "Formalizing \$\\pi_4(S^3) \\cong Z/2Z\$ and Computing a Brunerie Number in Cubical Agda"
+title: "Formalizing stuff and Computing a Brunerie Number in Cubical Agda"
 collection: publications
 permalink: /publication/2023-01-Brunerie
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
