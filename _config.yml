@@ -85,9 +85,9 @@ author:
   bio              : "Blahem"
   location         : "Stockholm, Sweden"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    :
-  email            :
+  email            : "axel.ljungstrom@math.su.saaaaa"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
