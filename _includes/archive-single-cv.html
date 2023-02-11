@@ -35,8 +35,9 @@
     </h3>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}, <i>{{ post.venue }}</i></p> {% endif %}
+      {% endif %}
+      {% if post.venue and post.citation%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}, <i>{{ post.venue }}</i></p> {% endif %}
+      {% if post.venue and not post.citation%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }} <i>{{ post.venue }}</i></p> {% endif %}
     </li>
  </article>
 </div>
