@@ -10,7 +10,7 @@ main:
     url: /teaching/    
 
   - title: "Miscellaneous"
-    url: /year-archive/
+    url: /misc/
     
   - title: "CV"
     url: /cv/
