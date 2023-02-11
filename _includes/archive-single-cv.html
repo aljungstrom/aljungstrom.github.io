@@ -13,9 +13,9 @@
 {% endif %}
 
 {% if post.citation %}
-  {% assign title = "," %}
+  {% assign foo = ", " %}
 {% else %}
-  {% assign title = "" %}
+  {% assign foo = "" %}
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
@@ -42,7 +42,7 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}{{ title }} <i>{{ post.venue }}</i></p> {% endif %}
+    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}{{ foo }} <i>{{ post.venue }}</i></p> {% endif %}
     </li>
  </article>
 </div>
