@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant"
+title: "Teaching assistant (computational mathematics)"
 collection: teaching
 type: "Undergraduate courses in computational mathematics"
 permalink: /teaching/compmaths-ta

@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant"
+title: "Teaching assistant (mathematics)"
 collection: teaching
 type: "Undergraduate courses in mathematics"
 permalink: /teaching/maths-ta
