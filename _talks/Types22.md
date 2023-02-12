@@ -7,6 +7,4 @@ venue: "Types 2022"
 date: 2022-06-21
 location: "Nantes, France"
 ---
-
-
-[Slides](http://aljungstrom.github.io/files/Types22.pdf)
+[Slides](http://aljungstrom.github.io/files/Types22.pdf), [Recording](https://www.youtube.com/watch?v=P6LNaYMTkMM)
