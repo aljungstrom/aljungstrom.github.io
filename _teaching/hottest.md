@@ -3,7 +3,7 @@ title: "HoTTEST Summer School 2022"
 collection: teaching
 type: "Summer school"
 permalink: /teaching/2015-spring-teaching-1
-venue:
+venue: "Online"
 date: 2022-07-01
 location: "Online"
 ---
