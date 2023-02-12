@@ -1,7 +1,7 @@
 ---
 title: "Calculating a Brunerie Number"
 collection: talks
-type: "Tutorial"
+type: "Talk"
 permalink: /talks/HoTTEST-Brunerie
 venue: "Homotopy Type Theory Electronic Seminar Talks"
 date: 2022-10-20
