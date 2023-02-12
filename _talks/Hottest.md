@@ -1,11 +1,11 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Calculating a Brunerie Number"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+permalink: /talks/HoTTEST-Brunerie
+venue: "Homotopy Type Theory Electronic Seminar Talks"
+date: 2022-10-20
+location: "Online"
 ---
 
 [Slides](https://aljungstrom.github.io/files/hottest-brunerie.pdf), [Recording](https://youtu.be/MIMeQ88YMKI)
