@@ -26,4 +26,8 @@ David and I are trying our best to develop the theory of Steenrod squares in HoT
 The fact that smash products are symmetric monoidal has turned out to be pretty hard to prove. While Floris van Doorn, in his Ph.D. thesis, made a serious attempt at proving this fact, there was still a crucial gap in the argument. I have been working on a different proof of this fact, and recently finished the formalisation in Cubical Agda. I am currently working on writing this up into something readable.
 
 ### Whitehead products in HoTT
-Whitehead products were extensively used in Guillaume Brunerie's Ph.D. thesis but few of their algebraic properties have been verified in HoTT. I am currently working on verifying these properties, e.g. bilinearity, graded commutativity, etc.
+Whitehead products were extensively
+used in Guillaume Brunerie's Ph.D. thesis but few of their algebraic
+properties (e.g. bilinearity, graded commutativity, etc.) have been
+verified in HoTT. I am currently working on verifying these, both in
+pen-and-paper HoTT and in Cubical Agda.
