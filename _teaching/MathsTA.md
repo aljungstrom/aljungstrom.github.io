@@ -8,7 +8,7 @@ date: 2019-05-06
 location: "Stockholm, Sweden"
 ---
 
-Teaching assistant for various courses in mathematics taught between 2019 and 2021. Duties primarily included tutoring and grading. I was part of the following courses:
+Teaching assistant for various courses in mathematics taught between 2019 and 2020. Duties primarily included tutoring and grading. See the following list for the courses I have been part of.
 
 Mathematics I
 ======
