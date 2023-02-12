@@ -1,7 +1,7 @@
 ---
 title: "Teaching assistant"
 collection: teaching
-type: "Mathematics"
+type: "Undergraduate courses in mathematics"
 permalink: /teaching/maths-ta
 venue: "Stockholm University, Department of Mathematics"
 date: 2019-05-06
