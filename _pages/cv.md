@@ -18,16 +18,13 @@ Education
 
 Work experience
 ======
-* Summer 2015: Chef
-  * McDonald's University
-  * Duties included: Many
-  * Supervisor: None
+* 2019-2020 : Teaching assistant (amanuens)
+  * Stockholm University, Department of Mathematics
+  * Duties included: Tutoring, grading (mathematics courses)
 
-Skills
-======
-* None
-  * Nothing
-  * Nada
+* Summer 2018: Digitaliser and mathematics educator
+  * Liber
+  * Duties included: Digitalisation of high-school level maths textbooks and solution writing
 
 Publications
 ======
@@ -46,7 +43,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
