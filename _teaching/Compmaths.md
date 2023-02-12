@@ -8,7 +8,7 @@ date: 2020-05-06
 location: "Stockholm, Sweden"
 ---
 
-Teaching assistant for various courses in computational mathematics taught between 2019 and 2021. Duties primarily include exercise sessions, tutoring and grading. See the following list for the courses I am/have been part of.
+Teaching assistant for various courses in computational mathematics, starting 2020 (ongoing). Duties primarily include exercise sessions, tutoring and grading. See the following list for the courses I am/have been part of.
 
 Algorithms and Complexity
 ======
