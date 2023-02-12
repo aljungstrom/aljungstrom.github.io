@@ -52,7 +52,7 @@
     {% elsif post.citation %}
       <p>{{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} "><u>here</u></a></p>
+      <p>Available <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}

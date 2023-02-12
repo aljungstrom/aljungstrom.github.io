@@ -4,7 +4,7 @@ collection: misc
 permalink: /misc/2023-01-Brunerie
 excerpt:
 date: 2020-12-29
-venue: 'Submitted for review, 2023'
-paperurl: 'http://aljungstrom.github.io/files/pi4s3.pdf'
-citation: 'Axel Ljungström, Anders Mörtberg'
+venue:
+paperurl: 'https://homotopytypetheory.org/2022/06/09/the-brunerie-number-is-2/'
+citation:
 ---
