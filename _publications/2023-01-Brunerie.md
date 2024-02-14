@@ -1,10 +1,11 @@
 ---
 title: "Formalizing π₄(S³) ≅ ℤ/2ℤ and Computing a Brunerie Number in Cubical Agda"
+arxiv: true
 collection: publications
 permalink: /publication/pi4s3
-excerpt:
+excerpt: <span style="color:red">Distinguished paper award (LICS 2023)</span>
 date: 2023-02-01
-venue: 'Submitted for review, 2023'
-paperurl: 'http://aljungstrom.github.io/files/pi4s3.pdf'
+venue: 'Proceedings of LICS 2023'
+paperurl: 'https://arxiv.org/abs/2302.00151'
 citation: 'Axel Ljungström, Anders Mörtberg'
 ---
