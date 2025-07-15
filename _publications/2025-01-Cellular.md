@@ -3,7 +3,7 @@ title: "Cellular Methods in Homotopy Type Theory"
 collection: publications
 permalink: /publication/cellular
 date: 2025-01-01
-venue: 'Preprint'
+venue: 'Preprint, 2025'
 paperurl: 'https://aljungstrom.github.io/files/cellular2025.pdf'
 citation: 'Axel Ljungström, Loïc Pujet'
 ---
