@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-| :exclamation:  My email is changing. For now, I am using axel.?.ljungstrom@gmail.com where ? = the sixth letter of the alphabet |
-|---------------------------------------------------------------------------------------------------------------------------------|
+> ⚠️ My email is changing. For now, I am using axel.?.ljungstrom@gmail.com where ? = the sixth letter of the alphabet
 
 I'm a recently graduated Ph.D. student in the computational mathematics division of the
 department of mathematics at Stockholm University. Here, I've been working on a project on homotopy type theory under the supervision of [Anders Mörtberg](https://staff.math.su.se/anders.mortberg/). Soon, I'll be starting a postdoc funded by [a scholarship I was awarded](https://kaw.wallenberg.org/en/axel-ljungstrom) by the Knut and Alice Wallenberg foundation with [Ulrik Buchholtz](https://ulrikbuchholtz.dk/) at the School of Computer Science at the University of Nottingham. 
