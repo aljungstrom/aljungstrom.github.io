@@ -14,7 +14,7 @@ Education
 * B.S. in Theoretical Philosophy, Stockholm University, 2018
 * B.S. in Mathematics, Stockholm University, 2018
 * M.S. in Mathematics, Stockholm University, 2020
-* Ph.D in Computational Mathematics, Stockholm University, 2025 (expected)
+* Ph.D in Computational Mathematics, Stockholm University, 2025
 
 Work experience
 ======
