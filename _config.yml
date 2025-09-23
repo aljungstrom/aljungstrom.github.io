@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Axel Ljungström"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in type theory at Stockholm University, Department of Mathematics"
-  location         : "Stockholm, Sweden"
+  bio              : "Postdoc at the University of Nottingham, School of Computer Science"
+  location         : "Nottingham, UK"
   employer         :
   pubmed           :
   googlescholar    :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "overleaf_user"
+  twitter          : # "overleaf_user"
   vine             :
   weibo            :
   xing             :
