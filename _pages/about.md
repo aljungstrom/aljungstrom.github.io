@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-> ⚠️ My email is changing. For now, I will be using my private email account: **axel.?.ljungstrom@gmail.com** where **? = the sixth letter of the alphabet**.
-
 I'm a postdoc at the School of Computer Science at the University of Nottingham working with [Ulrik Buchholtz](https://ulrikbuchholtz.dk/). The position is funded by [a scholarship I was awarded](https://kaw.wallenberg.org/en/axel-ljungstrom) from the Knut and Alice Wallenberg foundation. Recently, I was a Ph.D. student in the computational mathematics division of the department of mathematics at Stockholm University. There, I was working on a project on homotopy type theory under the supervision of [Anders Mörtberg](https://staff.math.su.se/anders.mortberg/).
 
 My primary research interests are synethetic homotopy theory and
