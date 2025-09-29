@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Available [here][https://aljungstrom.github.io/files/cv.pdf].
+Available [here](https://aljungstrom.github.io/files/cv.pdf).
